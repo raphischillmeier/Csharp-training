@@ -1,0 +1,14 @@
+C:\Users\rschillmeier\source\repos\test_helloworld\test_helloworld\obj\Debug\net7.0\test_helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rschillmeier\source\repos\test_helloworld\test_helloworld\obj\Debug\net7.0\test_helloworld.AssemblyInfoInputs.cache
+C:\Users\rschillmeier\source\repos\test_helloworld\test_helloworld\obj\Debug\net7.0\test_helloworld.AssemblyInfo.cs
+C:\Users\rschillmeier\source\repos\test_helloworld\test_helloworld\obj\Debug\net7.0\test_helloworld.csproj.CoreCompileInputs.cache
+C:\Users\rschillmeier\source\repos\test_helloworld\test_helloworld\bin\Debug\net7.0\test_helloworld.exe
+C:\Users\rschillmeier\source\repos\test_helloworld\test_helloworld\bin\Debug\net7.0\test_helloworld.deps.json
+C:\Users\rschillmeier\source\repos\test_helloworld\test_helloworld\bin\Debug\net7.0\test_helloworld.runtimeconfig.json
+C:\Users\rschillmeier\source\repos\test_helloworld\test_helloworld\bin\Debug\net7.0\test_helloworld.dll
+C:\Users\rschillmeier\source\repos\test_helloworld\test_helloworld\bin\Debug\net7.0\test_helloworld.pdb
+C:\Users\rschillmeier\source\repos\test_helloworld\test_helloworld\obj\Debug\net7.0\test_helloworld.dll
+C:\Users\rschillmeier\source\repos\test_helloworld\test_helloworld\obj\Debug\net7.0\refint\test_helloworld.dll
+C:\Users\rschillmeier\source\repos\test_helloworld\test_helloworld\obj\Debug\net7.0\test_helloworld.pdb
+C:\Users\rschillmeier\source\repos\test_helloworld\test_helloworld\obj\Debug\net7.0\test_helloworld.genruntimeconfig.cache
+C:\Users\rschillmeier\source\repos\test_helloworld\test_helloworld\obj\Debug\net7.0\ref\test_helloworld.dll

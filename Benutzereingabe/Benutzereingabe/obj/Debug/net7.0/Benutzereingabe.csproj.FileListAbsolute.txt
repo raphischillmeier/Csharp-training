@@ -1,0 +1,14 @@
+C:\Users\rschillmeier\Desktop\Programme\C# training\Benutzereingabe\Benutzereingabe\bin\Debug\net7.0\Benutzereingabe.exe
+C:\Users\rschillmeier\Desktop\Programme\C# training\Benutzereingabe\Benutzereingabe\bin\Debug\net7.0\Benutzereingabe.deps.json
+C:\Users\rschillmeier\Desktop\Programme\C# training\Benutzereingabe\Benutzereingabe\bin\Debug\net7.0\Benutzereingabe.runtimeconfig.json
+C:\Users\rschillmeier\Desktop\Programme\C# training\Benutzereingabe\Benutzereingabe\bin\Debug\net7.0\Benutzereingabe.dll
+C:\Users\rschillmeier\Desktop\Programme\C# training\Benutzereingabe\Benutzereingabe\bin\Debug\net7.0\Benutzereingabe.pdb
+C:\Users\rschillmeier\Desktop\Programme\C# training\Benutzereingabe\Benutzereingabe\obj\Debug\net7.0\Benutzereingabe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rschillmeier\Desktop\Programme\C# training\Benutzereingabe\Benutzereingabe\obj\Debug\net7.0\Benutzereingabe.AssemblyInfoInputs.cache
+C:\Users\rschillmeier\Desktop\Programme\C# training\Benutzereingabe\Benutzereingabe\obj\Debug\net7.0\Benutzereingabe.AssemblyInfo.cs
+C:\Users\rschillmeier\Desktop\Programme\C# training\Benutzereingabe\Benutzereingabe\obj\Debug\net7.0\Benutzereingabe.csproj.CoreCompileInputs.cache
+C:\Users\rschillmeier\Desktop\Programme\C# training\Benutzereingabe\Benutzereingabe\obj\Debug\net7.0\Benutzereingabe.dll
+C:\Users\rschillmeier\Desktop\Programme\C# training\Benutzereingabe\Benutzereingabe\obj\Debug\net7.0\refint\Benutzereingabe.dll
+C:\Users\rschillmeier\Desktop\Programme\C# training\Benutzereingabe\Benutzereingabe\obj\Debug\net7.0\Benutzereingabe.pdb
+C:\Users\rschillmeier\Desktop\Programme\C# training\Benutzereingabe\Benutzereingabe\obj\Debug\net7.0\Benutzereingabe.genruntimeconfig.cache
+C:\Users\rschillmeier\Desktop\Programme\C# training\Benutzereingabe\Benutzereingabe\obj\Debug\net7.0\ref\Benutzereingabe.dll

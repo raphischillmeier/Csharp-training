@@ -1,0 +1,14 @@
+C:\Users\rschillmeier\Desktop\Programme\C# training\Methoden\Methoden\bin\Debug\net7.0\Methoden.exe
+C:\Users\rschillmeier\Desktop\Programme\C# training\Methoden\Methoden\bin\Debug\net7.0\Methoden.deps.json
+C:\Users\rschillmeier\Desktop\Programme\C# training\Methoden\Methoden\bin\Debug\net7.0\Methoden.runtimeconfig.json
+C:\Users\rschillmeier\Desktop\Programme\C# training\Methoden\Methoden\bin\Debug\net7.0\Methoden.dll
+C:\Users\rschillmeier\Desktop\Programme\C# training\Methoden\Methoden\bin\Debug\net7.0\Methoden.pdb
+C:\Users\rschillmeier\Desktop\Programme\C# training\Methoden\Methoden\obj\Debug\net7.0\Methoden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rschillmeier\Desktop\Programme\C# training\Methoden\Methoden\obj\Debug\net7.0\Methoden.AssemblyInfoInputs.cache
+C:\Users\rschillmeier\Desktop\Programme\C# training\Methoden\Methoden\obj\Debug\net7.0\Methoden.AssemblyInfo.cs
+C:\Users\rschillmeier\Desktop\Programme\C# training\Methoden\Methoden\obj\Debug\net7.0\Methoden.csproj.CoreCompileInputs.cache
+C:\Users\rschillmeier\Desktop\Programme\C# training\Methoden\Methoden\obj\Debug\net7.0\Methoden.dll
+C:\Users\rschillmeier\Desktop\Programme\C# training\Methoden\Methoden\obj\Debug\net7.0\refint\Methoden.dll
+C:\Users\rschillmeier\Desktop\Programme\C# training\Methoden\Methoden\obj\Debug\net7.0\Methoden.pdb
+C:\Users\rschillmeier\Desktop\Programme\C# training\Methoden\Methoden\obj\Debug\net7.0\Methoden.genruntimeconfig.cache
+C:\Users\rschillmeier\Desktop\Programme\C# training\Methoden\Methoden\obj\Debug\net7.0\ref\Methoden.dll

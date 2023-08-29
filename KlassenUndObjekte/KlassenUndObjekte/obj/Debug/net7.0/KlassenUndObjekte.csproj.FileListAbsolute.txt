@@ -1,0 +1,14 @@
+C:\Users\rschillmeier\Desktop\Programme\C# training\KlassenUndObjekte\KlassenUndObjekte\bin\Debug\net7.0\KlassenUndObjekte.exe
+C:\Users\rschillmeier\Desktop\Programme\C# training\KlassenUndObjekte\KlassenUndObjekte\bin\Debug\net7.0\KlassenUndObjekte.deps.json
+C:\Users\rschillmeier\Desktop\Programme\C# training\KlassenUndObjekte\KlassenUndObjekte\bin\Debug\net7.0\KlassenUndObjekte.runtimeconfig.json
+C:\Users\rschillmeier\Desktop\Programme\C# training\KlassenUndObjekte\KlassenUndObjekte\bin\Debug\net7.0\KlassenUndObjekte.dll
+C:\Users\rschillmeier\Desktop\Programme\C# training\KlassenUndObjekte\KlassenUndObjekte\bin\Debug\net7.0\KlassenUndObjekte.pdb
+C:\Users\rschillmeier\Desktop\Programme\C# training\KlassenUndObjekte\KlassenUndObjekte\obj\Debug\net7.0\KlassenUndObjekte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rschillmeier\Desktop\Programme\C# training\KlassenUndObjekte\KlassenUndObjekte\obj\Debug\net7.0\KlassenUndObjekte.AssemblyInfoInputs.cache
+C:\Users\rschillmeier\Desktop\Programme\C# training\KlassenUndObjekte\KlassenUndObjekte\obj\Debug\net7.0\KlassenUndObjekte.AssemblyInfo.cs
+C:\Users\rschillmeier\Desktop\Programme\C# training\KlassenUndObjekte\KlassenUndObjekte\obj\Debug\net7.0\KlassenUndObjekte.csproj.CoreCompileInputs.cache
+C:\Users\rschillmeier\Desktop\Programme\C# training\KlassenUndObjekte\KlassenUndObjekte\obj\Debug\net7.0\KlassenUndObjekte.dll
+C:\Users\rschillmeier\Desktop\Programme\C# training\KlassenUndObjekte\KlassenUndObjekte\obj\Debug\net7.0\refint\KlassenUndObjekte.dll
+C:\Users\rschillmeier\Desktop\Programme\C# training\KlassenUndObjekte\KlassenUndObjekte\obj\Debug\net7.0\KlassenUndObjekte.pdb
+C:\Users\rschillmeier\Desktop\Programme\C# training\KlassenUndObjekte\KlassenUndObjekte\obj\Debug\net7.0\KlassenUndObjekte.genruntimeconfig.cache
+C:\Users\rschillmeier\Desktop\Programme\C# training\KlassenUndObjekte\KlassenUndObjekte\obj\Debug\net7.0\ref\KlassenUndObjekte.dll
